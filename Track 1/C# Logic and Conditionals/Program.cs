@@ -25,6 +25,23 @@ namespace ComparisonOperators
       bool tripDecision = yourNeeds && friendNeeds;
       Console.WriteLine(tripDecision);
 
+
+      int people = 11;
+      string weather = "not good";
+        if (people <= 10 && weather == "nice") {
+          Console.WriteLine("SaladMart");
+        } else {
+          Console.WriteLine("Soup N Sandwich");
+        }
+        
+      int guests = 0;
+      if (guests >= 4) {
+        Console.WriteLine("Catan");
+      } else if (guests >= 1) {
+        Console.WriteLine("Innovation");
+      } else {
+        Console.WriteLine("Solitaire");
+      }
     }
   }
 }
