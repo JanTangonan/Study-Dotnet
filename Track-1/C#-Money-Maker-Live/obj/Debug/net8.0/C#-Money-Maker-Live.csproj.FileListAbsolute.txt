@@ -1,0 +1,15 @@
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Money-Maker-Live\bin\Debug\net8.0\C#-Money-Maker-Live.exe
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Money-Maker-Live\bin\Debug\net8.0\C#-Money-Maker-Live.deps.json
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Money-Maker-Live\bin\Debug\net8.0\C#-Money-Maker-Live.runtimeconfig.json
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Money-Maker-Live\bin\Debug\net8.0\C#-Money-Maker-Live.dll
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Money-Maker-Live\bin\Debug\net8.0\C#-Money-Maker-Live.pdb
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Money-Maker-Live\obj\Debug\net8.0\C#-Money-Maker-Live.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Money-Maker-Live\obj\Debug\net8.0\C#-Money-Maker-Live.AssemblyInfoInputs.cache
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Money-Maker-Live\obj\Debug\net8.0\C#-Money-Maker-Live.AssemblyInfo.cs
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Money-Maker-Live\obj\Debug\net8.0\C#-Money-Maker-Live.csproj.CoreCompileInputs.cache
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Money-Maker-Live\obj\Debug\net8.0\C#-Money-Maker-Live.sourcelink.json
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Money-Maker-Live\obj\Debug\net8.0\C#-Money-Maker-Live.dll
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Money-Maker-Live\obj\Debug\net8.0\refint\C#-Money-Maker-Live.dll
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Money-Maker-Live\obj\Debug\net8.0\C#-Money-Maker-Live.pdb
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Money-Maker-Live\obj\Debug\net8.0\C#-Money-Maker-Live.genruntimeconfig.cache
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Money-Maker-Live\obj\Debug\net8.0\ref\C#-Money-Maker-Live.dll
