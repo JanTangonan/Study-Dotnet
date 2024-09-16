@@ -1,0 +1,15 @@
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Strings\bin\Debug\net8.0\C#-Strings.exe
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Strings\bin\Debug\net8.0\C#-Strings.deps.json
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Strings\bin\Debug\net8.0\C#-Strings.runtimeconfig.json
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Strings\bin\Debug\net8.0\C#-Strings.dll
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Strings\bin\Debug\net8.0\C#-Strings.pdb
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Strings\obj\Debug\net8.0\C#-Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Strings\obj\Debug\net8.0\C#-Strings.AssemblyInfoInputs.cache
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Strings\obj\Debug\net8.0\C#-Strings.AssemblyInfo.cs
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Strings\obj\Debug\net8.0\C#-Strings.csproj.CoreCompileInputs.cache
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Strings\obj\Debug\net8.0\C#-Strings.sourcelink.json
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Strings\obj\Debug\net8.0\C#-Strings.dll
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Strings\obj\Debug\net8.0\refint\C#-Strings.dll
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Strings\obj\Debug\net8.0\C#-Strings.pdb
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Strings\obj\Debug\net8.0\C#-Strings.genruntimeconfig.cache
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Strings\obj\Debug\net8.0\ref\C#-Strings.dll
