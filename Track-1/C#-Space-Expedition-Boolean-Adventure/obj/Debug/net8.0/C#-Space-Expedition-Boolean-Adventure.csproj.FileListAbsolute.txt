@@ -1,0 +1,15 @@
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Space-Expedition-Boolean-Adventure\bin\Debug\net8.0\C#-Space-Expedition-Boolean-Adventure.exe
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Space-Expedition-Boolean-Adventure\bin\Debug\net8.0\C#-Space-Expedition-Boolean-Adventure.deps.json
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Space-Expedition-Boolean-Adventure\bin\Debug\net8.0\C#-Space-Expedition-Boolean-Adventure.runtimeconfig.json
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Space-Expedition-Boolean-Adventure\bin\Debug\net8.0\C#-Space-Expedition-Boolean-Adventure.dll
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Space-Expedition-Boolean-Adventure\bin\Debug\net8.0\C#-Space-Expedition-Boolean-Adventure.pdb
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Space-Expedition-Boolean-Adventure\obj\Debug\net8.0\C#-Space-Expedition-Boolean-Adventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Space-Expedition-Boolean-Adventure\obj\Debug\net8.0\C#-Space-Expedition-Boolean-Adventure.AssemblyInfoInputs.cache
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Space-Expedition-Boolean-Adventure\obj\Debug\net8.0\C#-Space-Expedition-Boolean-Adventure.AssemblyInfo.cs
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Space-Expedition-Boolean-Adventure\obj\Debug\net8.0\C#-Space-Expedition-Boolean-Adventure.csproj.CoreCompileInputs.cache
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Space-Expedition-Boolean-Adventure\obj\Debug\net8.0\C#-Space-Expedition-Boolean-Adventure.sourcelink.json
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Space-Expedition-Boolean-Adventure\obj\Debug\net8.0\C#-Space-Expedition-Boolean-Adventure.dll
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Space-Expedition-Boolean-Adventure\obj\Debug\net8.0\refint\C#-Space-Expedition-Boolean-Adventure.dll
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Space-Expedition-Boolean-Adventure\obj\Debug\net8.0\C#-Space-Expedition-Boolean-Adventure.pdb
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Space-Expedition-Boolean-Adventure\obj\Debug\net8.0\C#-Space-Expedition-Boolean-Adventure.genruntimeconfig.cache
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Space-Expedition-Boolean-Adventure\obj\Debug\net8.0\ref\C#-Space-Expedition-Boolean-Adventure.dll

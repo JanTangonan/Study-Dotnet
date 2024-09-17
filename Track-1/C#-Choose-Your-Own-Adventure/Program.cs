@@ -10,13 +10,13 @@ namespace ChooseYourOwnAdventure
 
       // Start by asking for the user's name:
       Console.Write("What is your name?: ");
-      string name = Console.ReadLine();
+      string? name = Console.ReadLine();
       Console.WriteLine($"Hello, {name}! Welcome to our story.");
 
       Console.WriteLine("It begins on a cold rainy night. You're sitting in your room and hear a noise coming from down the hall. Do you go investigate?");
 
       Console.Write("Type YES or NO: ");
-      string noiseChoice = Console.ReadLine();
+      string? noiseChoice = Console.ReadLine();
       noiseChoice.ToUpper();
 
       if (noiseChoice == "NO") {
@@ -29,7 +29,7 @@ namespace ChooseYourOwnAdventure
       }
 
       Console.WriteLine("Type OPEN or KNOCK");
-      string doorChoice = Console.ReadLine();
+      string? doorChoice = Console.ReadLine();
       doorChoice.ToUpper();
 
       if (doorChoice == "KNOCK") {
@@ -37,7 +37,7 @@ namespace ChooseYourOwnAdventure
         Console.WriteLine("A voice behind the door speaks. It says, \"Answer this riddle: \"");
 
         Console.WriteLine("Type your answer: ");
-        string riddleAnswer = Console.ReadLine();
+        string? riddleAnswer = Console.ReadLine();
         riddleAnswer.ToUpper();
         if (riddleAnswer == "NOTHING"){
           Console.WriteLine("The door opens and NOTHING is there. You turn off the light and run back to your room and lock the door.");
@@ -52,7 +52,7 @@ namespace ChooseYourOwnAdventure
         Console.WriteLine("The door is locked! See if one of your three keys will open it.");
       }
       Console.WriteLine("Enter a number (1-3):");
-      string keyChoice = Console.ReadLine();
+      string? keyChoice = Console.ReadLine();
 
       switch (keyChoice)
       {
