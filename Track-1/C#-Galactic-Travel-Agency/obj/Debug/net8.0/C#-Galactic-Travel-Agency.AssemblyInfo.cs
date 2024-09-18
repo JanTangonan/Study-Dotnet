@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C#-Galactic-Travel-Agency")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa44f154e37be9c2bc7257b3c9078cb72db86224")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fc97989186475d08525d1ca73e1d3bb9d63335e")]
 [assembly: System.Reflection.AssemblyProductAttribute("C#-Galactic-Travel-Agency")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C#-Galactic-Travel-Agency")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Loops\bin\Debug\net8.0\C#-Loops.exe
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Loops\bin\Debug\net8.0\C#-Loops.deps.json
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Loops\bin\Debug\net8.0\C#-Loops.runtimeconfig.json
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Loops\bin\Debug\net8.0\C#-Loops.dll
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Loops\bin\Debug\net8.0\C#-Loops.pdb
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Loops\obj\Debug\net8.0\C#-Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Loops\obj\Debug\net8.0\C#-Loops.AssemblyInfoInputs.cache
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Loops\obj\Debug\net8.0\C#-Loops.AssemblyInfo.cs
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Loops\obj\Debug\net8.0\C#-Loops.csproj.CoreCompileInputs.cache
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Loops\obj\Debug\net8.0\C#-Loops.sourcelink.json
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Loops\obj\Debug\net8.0\C#-Loops.dll
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Loops\obj\Debug\net8.0\refint\C#-Loops.dll
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Loops\obj\Debug\net8.0\C#-Loops.pdb
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Loops\obj\Debug\net8.0\C#-Loops.genruntimeconfig.cache
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-Loops\obj\Debug\net8.0\ref\C#-Loops.dll
