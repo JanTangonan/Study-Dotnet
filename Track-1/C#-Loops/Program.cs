@@ -50,6 +50,19 @@ namespace WhileLoop
       foreach (string sites in websites){
         Console.WriteLine(sites);
       }
+
+      bool buttonClick = true;
+      int J = 0;
+      do
+      {
+        Console.WriteLine("BLARRRRR");
+        J++;
+        if (J == 3){
+          break;
+        }
+        
+      } while(!buttonClick);
+
     }
     static void CreateTemplate(int week)
     {
