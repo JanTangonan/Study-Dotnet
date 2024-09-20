@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C#-Space-Mission-Inventory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b24af2c40b05a22a324ee2a8309c0b5858b8105f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b8109a163fcf89781a9fdc3c05fcd0b51483e7b")]
 [assembly: System.Reflection.AssemblyProductAttribute("C#-Space-Mission-Inventory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C#-Space-Mission-Inventory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
