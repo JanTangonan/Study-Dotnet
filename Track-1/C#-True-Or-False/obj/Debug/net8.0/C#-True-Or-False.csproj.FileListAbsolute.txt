@@ -1,0 +1,15 @@
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-True-Or-False\bin\Debug\net8.0\C#-True-Or-False.exe
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-True-Or-False\bin\Debug\net8.0\C#-True-Or-False.deps.json
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-True-Or-False\bin\Debug\net8.0\C#-True-Or-False.runtimeconfig.json
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-True-Or-False\bin\Debug\net8.0\C#-True-Or-False.dll
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-True-Or-False\bin\Debug\net8.0\C#-True-Or-False.pdb
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-True-Or-False\obj\Debug\net8.0\C#-True-Or-False.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-True-Or-False\obj\Debug\net8.0\C#-True-Or-False.AssemblyInfoInputs.cache
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-True-Or-False\obj\Debug\net8.0\C#-True-Or-False.AssemblyInfo.cs
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-True-Or-False\obj\Debug\net8.0\C#-True-Or-False.csproj.CoreCompileInputs.cache
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-True-Or-False\obj\Debug\net8.0\C#-True-Or-False.sourcelink.json
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-True-Or-False\obj\Debug\net8.0\C#-True-Or-False.dll
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-True-Or-False\obj\Debug\net8.0\refint\C#-True-Or-False.dll
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-True-Or-False\obj\Debug\net8.0\C#-True-Or-False.pdb
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-True-Or-False\obj\Debug\net8.0\C#-True-Or-False.genruntimeconfig.cache
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\Track-1\C#-True-Or-False\obj\Debug\net8.0\ref\C#-True-Or-False.dll
