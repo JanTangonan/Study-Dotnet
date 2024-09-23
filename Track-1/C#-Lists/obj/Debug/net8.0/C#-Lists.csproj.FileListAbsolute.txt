@@ -1,0 +1,15 @@
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Lists\bin\Debug\net8.0\C#-Lists.exe
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Lists\bin\Debug\net8.0\C#-Lists.deps.json
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Lists\bin\Debug\net8.0\C#-Lists.runtimeconfig.json
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Lists\bin\Debug\net8.0\C#-Lists.dll
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Lists\bin\Debug\net8.0\C#-Lists.pdb
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Lists\obj\Debug\net8.0\C#-Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Lists\obj\Debug\net8.0\C#-Lists.AssemblyInfoInputs.cache
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Lists\obj\Debug\net8.0\C#-Lists.AssemblyInfo.cs
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Lists\obj\Debug\net8.0\C#-Lists.csproj.CoreCompileInputs.cache
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Lists\obj\Debug\net8.0\C#-Lists.sourcelink.json
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Lists\obj\Debug\net8.0\C#-Lists.dll
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Lists\obj\Debug\net8.0\refint\C#-Lists.dll
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Lists\obj\Debug\net8.0\C#-Lists.pdb
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Lists\obj\Debug\net8.0\C#-Lists.genruntimeconfig.cache
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Lists\obj\Debug\net8.0\ref\C#-Lists.dll
