@@ -7,9 +7,9 @@ namespace TrueOrFalse
 		static void Main(string[] args)
     {
       // Do not edit these lines
-      Console.WriteLine("Welcome to 'True or False?'\nPress Enter to begin:");
-      string entry = Console.ReadLine();
-      Tools.SetUpInputStream(entry);
+      // Console.WriteLine("Welcome to 'True or False?'\nPress Enter to begin:");
+      // string entry = Console.ReadLine();
+      // Tools.SetUpInputStream(entry);
 
       // Type your code below
       string[] questions = {
@@ -74,6 +74,17 @@ namespace TrueOrFalse
         Console.WriteLine(response);
       }
       
+      int scoringIndex = 0;
+      int score = 0;
+
+      foreach (bool answer in answers) {
+        Console.WriteLine($"{scoringIndex + 1}. Input: {responses[scoringIndex]} | Answer: {answer}");
+        if (responses[scoringIndex] == answer) {
+          score++;
+        }
+        scoringIndex++;
+      }
+      Console.WriteLine($"You got {score} out of 5 correct!");
     }
   }
 }
