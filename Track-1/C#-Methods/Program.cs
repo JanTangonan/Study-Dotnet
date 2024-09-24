@@ -36,6 +36,23 @@ namespace CaptureOutput
       IntroduceFriends("jumbs", "jumba");
       IntroduceFriends("jumbs", "jumba", "jumbe");
       IntroduceFriends();
+
+      //OUT PARAMETERS
+      string scoreAsString = "85.6";
+      string statement = "Hello World";
+      
+      double scoreAsDouble;
+      bool outcome = Double.TryParse(scoreAsString, out scoreAsDouble);
+
+      Console.WriteLine($"{outcome}: {scoreAsDouble}");
+
+      Console.WriteLine(Whisper(statement, out bool b));
+
+      Console.WriteLine(b);
+
+      //NAMED ARGUMENTS
+      VisitPlanets(numberOfPlanets: 2);
+      VisitPlanets(numberOfPlanets: 2, name: "Jumba");
     }
 
     static void VisitPlanets(int numberOfPlanets) {
@@ -57,6 +74,24 @@ namespace CaptureOutput
 
     static void IntroduceFriends() {
       Console.WriteLine("There is no one who needs to be introduced.");
+    }
+    
+    //OUT PARAMETER
+    static string Whisper(string a, out bool b) {
+      b = true;
+      return a.ToLower();
+    }
+
+    //NAMED ARGUMENTS
+    static void VisitPlanets(
+      string adjective = "brave",
+      string name = "Cosmonaut", 
+      int numberOfPlanets = 0,
+      double gForce = 4.2)
+    {
+      Console.WriteLine($"Welcome back, {adjective} {name}.");
+      Console.WriteLine($"You visited {numberOfPlanets} new planets...");
+      Console.WriteLine($"...while experiencing a g-force of {gForce} g!");
     }
   }
 }
