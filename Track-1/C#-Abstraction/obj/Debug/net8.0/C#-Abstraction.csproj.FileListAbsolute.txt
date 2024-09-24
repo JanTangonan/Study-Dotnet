@@ -1,0 +1,15 @@
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Abstraction\bin\Debug\net8.0\C#-Abstraction.exe
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Abstraction\bin\Debug\net8.0\C#-Abstraction.deps.json
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Abstraction\bin\Debug\net8.0\C#-Abstraction.runtimeconfig.json
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Abstraction\bin\Debug\net8.0\C#-Abstraction.dll
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Abstraction\bin\Debug\net8.0\C#-Abstraction.pdb
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Abstraction\obj\Debug\net8.0\C#-Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Abstraction\obj\Debug\net8.0\C#-Abstraction.AssemblyInfoInputs.cache
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Abstraction\obj\Debug\net8.0\C#-Abstraction.AssemblyInfo.cs
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Abstraction\obj\Debug\net8.0\C#-Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Abstraction\obj\Debug\net8.0\C#-Abstraction.sourcelink.json
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Abstraction\obj\Debug\net8.0\C#-Abstraction.dll
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Abstraction\obj\Debug\net8.0\refint\C#-Abstraction.dll
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Abstraction\obj\Debug\net8.0\C#-Abstraction.pdb
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Abstraction\obj\Debug\net8.0\C#-Abstraction.genruntimeconfig.cache
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Abstraction\obj\Debug\net8.0\ref\C#-Abstraction.dll

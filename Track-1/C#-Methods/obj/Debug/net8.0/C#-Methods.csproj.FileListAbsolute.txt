@@ -1,0 +1,15 @@
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Methods\bin\Debug\net8.0\C#-Methods.exe
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Methods\bin\Debug\net8.0\C#-Methods.deps.json
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Methods\bin\Debug\net8.0\C#-Methods.runtimeconfig.json
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Methods\bin\Debug\net8.0\C#-Methods.dll
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Methods\bin\Debug\net8.0\C#-Methods.pdb
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Methods\obj\Debug\net8.0\C#-Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Methods\obj\Debug\net8.0\C#-Methods.AssemblyInfoInputs.cache
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Methods\obj\Debug\net8.0\C#-Methods.AssemblyInfo.cs
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Methods\obj\Debug\net8.0\C#-Methods.csproj.CoreCompileInputs.cache
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Methods\obj\Debug\net8.0\C#-Methods.sourcelink.json
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Methods\obj\Debug\net8.0\C#-Methods.dll
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Methods\obj\Debug\net8.0\refint\C#-Methods.dll
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Methods\obj\Debug\net8.0\C#-Methods.pdb
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Methods\obj\Debug\net8.0\C#-Methods.genruntimeconfig.cache
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Methods\obj\Debug\net8.0\ref\C#-Methods.dll
