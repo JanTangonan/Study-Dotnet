@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C#-Arrays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45d4387a897ac56c22af361f1ef0cfaefe94960b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21eb1b17bb6acfa6976def68b2f9a0efa58d59c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("C#-Arrays")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C#-Arrays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
