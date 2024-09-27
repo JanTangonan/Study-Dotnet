@@ -1,0 +1,15 @@
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-encapsulation\bin\Debug\net8.0\C#-Encapsulation.exe
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-encapsulation\bin\Debug\net8.0\C#-Encapsulation.deps.json
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-encapsulation\bin\Debug\net8.0\C#-Encapsulation.runtimeconfig.json
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-encapsulation\bin\Debug\net8.0\C#-Encapsulation.dll
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-encapsulation\bin\Debug\net8.0\C#-Encapsulation.pdb
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-encapsulation\obj\Debug\net8.0\C#-Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-encapsulation\obj\Debug\net8.0\C#-Encapsulation.AssemblyInfoInputs.cache
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-encapsulation\obj\Debug\net8.0\C#-Encapsulation.AssemblyInfo.cs
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-encapsulation\obj\Debug\net8.0\C#-Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-encapsulation\obj\Debug\net8.0\C#-Encapsulation.sourcelink.json
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-encapsulation\obj\Debug\net8.0\C#-Encapsulation.dll
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-encapsulation\obj\Debug\net8.0\refint\C#-Encapsulation.dll
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-encapsulation\obj\Debug\net8.0\C#-Encapsulation.pdb
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-encapsulation\obj\Debug\net8.0\C#-Encapsulation.genruntimeconfig.cache
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-encapsulation\obj\Debug\net8.0\ref\C#-Encapsulation.dll
