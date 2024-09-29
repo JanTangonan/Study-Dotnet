@@ -1,0 +1,15 @@
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Dating-Profile\bin\Debug\net8.0\C#-Dating-Profile.exe
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Dating-Profile\bin\Debug\net8.0\C#-Dating-Profile.deps.json
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Dating-Profile\bin\Debug\net8.0\C#-Dating-Profile.runtimeconfig.json
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Dating-Profile\bin\Debug\net8.0\C#-Dating-Profile.dll
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Dating-Profile\bin\Debug\net8.0\C#-Dating-Profile.pdb
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Dating-Profile\obj\Debug\net8.0\C#-Dating-Profile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Dating-Profile\obj\Debug\net8.0\C#-Dating-Profile.AssemblyInfoInputs.cache
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Dating-Profile\obj\Debug\net8.0\C#-Dating-Profile.AssemblyInfo.cs
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Dating-Profile\obj\Debug\net8.0\C#-Dating-Profile.csproj.CoreCompileInputs.cache
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Dating-Profile\obj\Debug\net8.0\C#-Dating-Profile.sourcelink.json
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Dating-Profile\obj\Debug\net8.0\C#-Dating-Profile.dll
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Dating-Profile\obj\Debug\net8.0\refint\C#-Dating-Profile.dll
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Dating-Profile\obj\Debug\net8.0\C#-Dating-Profile.pdb
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Dating-Profile\obj\Debug\net8.0\C#-Dating-Profile.genruntimeconfig.cache
+C:\Users\janth\OneDrive\Desktop\Dev\Study-Dotnet\track-1\C#-Dating-Profile\obj\Debug\net8.0\ref\C#-Dating-Profile.dll

@@ -1,24 +1,22 @@
 ﻿using System;
 
-namespace AccessModifiers
+namespace Review
 {
   class Program
   {
     static void Main(string[] args)
     {
-      // Forest f = new Forest("Congo", "Tropical");
-      // f.AnnounceForest();
-      // f.Grow();
-      // f.AnnounceForest();
+      Forest.PrintForestFacts();
+      Console.WriteLine(Forest.ForestsCreated);
 
-      Forest f = new Forest();
-      f.Name = "Congo";
-      f.trees = 0;
-      f.age = 0;
-      f.Biome = "Tropical";
-      
-      Console.WriteLine(f.Name);
-      Console.WriteLine(f.Biome);
+      Forest A = new Forest("Oak", "Tropical");
+      Forest B = new Forest("Dark Oak");
+      Forest C = new Forest("random");
+
+      Console.WriteLine(Forest.ForestsCreated);
+      Console.WriteLine(A.Biome);
+      Console.WriteLine(B.Biome);
+      Console.WriteLine(C.Biome);
     }
   }
 }
